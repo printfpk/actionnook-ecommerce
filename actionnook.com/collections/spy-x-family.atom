@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://actionnook.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://actionnook.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://actionnook.com/collections/spy-x-family.atom"/>
+  <title>Action Nook</title>
+  <updated>2025-07-25T17:18:27+05:30</updated>
+  <author>
+    <name>Action Nook</name>
+  </author>
+  <entry>
+    <id>https://actionnook.com/products/8797482287278</id>
+    <published>2025-07-25T17:18:27+05:30</published>
+    <updated>2025-07-25T17:18:27+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://actionnook.com/products/anya-forger-13cm-figure-with-box"/>
+    <title>ANYA FORGER 13CM FIGURE WITH BOX</title>
+    <s:type></s:type>
+    <s:vendor>Action Nook</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0687/7413/3934/files/A3F17278-9892-4381-A339-58544D3BAE60.jpg?v=1753444062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Action Nook<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            490.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://actionnook.com/products/8797482287278</id>
+      <title>Default Title</title>
+      <s:price currency="INR">490.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

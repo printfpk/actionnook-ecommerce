@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+actionnook.com	TRUE	/	FALSE	1999999999	_tracking_consent	3.AMPS_INUK_f_f_duoMrpRuT8maGKPKzaSB5Q
+actionnook.com	TRUE	/	FALSE	1999999999	_landing_page	%2Frobots.txt
+upload.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-Uniq	uQNeW7gDWlRtfdBJezOFrgJ1AAAAAFvdywkT1c0Np8GHMTRr7ypNnmdpjZ_ZoaWw
+upload.wikimedia.org	TRUE	/	FALSE	1999999999	SameSite	None
+actionnook.com	TRUE	/	FALSE	1999999999	_shopify_essential	:AZlsSc16AAEAK8GAFAM4x6ZfY2p2BfaBV1n0LhpL0GsK8RhiXvrVYINUSiHsotGy9dqObqOGh4jsSVDVywgh1VIDvpzetdEepFzkraj5LSIZCob_JocLyYJTChimc0elInrI5usCo_cyUUvhqh-0jOl7N16hQ8jelyB9HinTVGSVX472KC8RlA:
+actionnook.com	TRUE	/	FALSE	1999999999	Priority	High
+actionnook.com	TRUE	/	FALSE	1999999999	localization	IN
+actionnook.com	TRUE	/	FALSE	1999999999	_shopify_y	fa688c31-06b2-46ce-ad13-5169b154c7ef
+actionnook.com	TRUE	/	FALSE	1999999999	_shopify_s	1db50c6d-e4ce-4b6a-b2f4-9b9044cb5441
+actionnook.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
